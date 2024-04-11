@@ -4,7 +4,7 @@ O J-Pets é um site que tem como objetivo promover e divulgar empresas do ramo d
 # 📄Descrição
 O projeto é nosso T.C.C. e fruto de um ano e meio de estudos no SENAI (Serviço Nacional de Aprendizagem Industrial), onde mostraremos todas as habilidades adquiridas no curso de Desenvolvimento de Sistemas. 
 
-# 🛠Construído com
+# 🛠Tecnologias utilizadas
 ● HTML <br>
 ● CSS  <br>
 ● JavaScript <br>
